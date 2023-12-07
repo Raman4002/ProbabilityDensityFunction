@@ -1,7 +1,7 @@
 # Species Prediction using Petal Length Analysis
 
 ## Introduction
-In our attempt to predict the species of a plant based on its petal length, we initially explored the distribution characteristics by drawing a histogram. The examination revealed a non-normal distribution of petal lengths, prompting us to employ kernel density estimation (KDE) techniques for a more nuanced analysis.
+In our endeavor to predict the species of a plant based on its petal length, we directly delved into the analysis using kernel density estimation (KDE) techniques. Recognizing the non-normal distribution of petal lengths, we opted for KDE as the primary method to gain a more nuanced understanding of the distribution characteristics. This approach allows for a comprehensive exploration and interpretation of the data to inform our predictive modeling efforts.
 
 ## Kernel Density Estimation
 After conducting a comprehensive analysis of various kernel density plots, we arrived at the following key conclusions:
